@@ -14,7 +14,7 @@
 #     filter :embed
 #   end
 #
-# To make your named_route helpers or url_for add the uuid segment you can use:
+# To make your named_route helpers or url_for add the embed segment you can use:
 #
 #   products_path(:embed => true)
 #   url_for(:products, :embed => true)

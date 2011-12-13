@@ -4,9 +4,9 @@ require 'routing_filter/version'
 Gem::Specification.new do |s|
   s.name         = "routing-filter"
   s.version      = RoutingFilter::VERSION
-  s.authors      = ["Sven Fuchs"]
-  s.email        = "svenfuchs@artweb-design.de"
-  s.homepage     = "http://github.com/svenfuchs/routing-filter"
+  s.authors      = ["Sven Fuchs", "Joshua Jacobs"]
+  s.email        = "josh@mandala-designs.com"
+  s.homepage     = "http://github.com/jmandala/routing-filter"
   s.summary      = "Routing filters wraps around the complex beast that the Rails routing system is, allowing for unseen flexibility and power in Rails URL recognition and generation"
   s.description  = "Routing filters wraps around the complex beast that the Rails routing system is, allowing for unseen flexibility and power in Rails URL recognition and generation."
 
